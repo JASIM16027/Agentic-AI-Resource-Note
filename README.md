@@ -79,7 +79,7 @@ Single agent system হলো একটি autonomous AI program যা independ
 ## Single Agent কীভাবে কাজ করে?  
 Under the hood, single agent একটি cycle-এ কাজ করে, যাকে often “perceive-reason-act” cycle বলা হয়। Let’s break it down:
 
-
+https://docs.aws.amazon.com/images/prescriptive-guidance/latest/agentic-ai-foundations/images/perceive-reason-act.png
 
 
 1. **Perceive (দেখা/Observe)**:  
