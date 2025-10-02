@@ -1,9 +1,9 @@
 # Agentic-AI-Resource-Note
 
 
-# 📘 Chapter 0: Single-Agent Systems পরিচিতি
+## 📘 Chapter 0: Single-Agent Systems পরিচিতি
 
-## আলোচ্য বিষয়
+### আলোচ্য বিষয়
 
 * [যখন একটি AI এজেন্ট যথেষ্ট](#যখন-একটি-ai-এজেন্ট-যথেষ্ট)
 * [Single-Agent System কী (vs. Multi-Agent)](#single-agent-system-কী-vs-multi-agent)
@@ -15,9 +15,9 @@
 
 ---
 
-# 📘 Chapter 1: Multi-Agent Systems পরিচিতি
+## 📘 Chapter 1: Multi-Agent Systems পরিচিতি
 
-## আলোচ্য বিষয়
+### আলোচ্য বিষয়
 
 * [যখন একটি AI এজেন্ট যথেষ্ট নয়](#যখন-একটি-ai-এজেন্ট-যথেষ্ট-নয়)
 * [Multi-Agent System কী (vs. Single Agent)](#multi-agent-system-কী-vs-single-agent)
@@ -79,7 +79,9 @@ Single agent system হলো একটি autonomous AI program যা independ
 ## Single Agent কীভাবে কাজ করে?  
 Under the hood, single agent একটি cycle-এ কাজ করে, যাকে often “perceive-reason-act” cycle বলা হয়। Let’s break it down:
 
-https://docs.aws.amazon.com/images/prescriptive-guidance/latest/agentic-ai-foundations/images/perceive-reason-act.png
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/384e4769-abf2-4b54-b85b-cf48128944c5" />
+
 
 
 1. **Perceive (দেখা/Observe)**:  
