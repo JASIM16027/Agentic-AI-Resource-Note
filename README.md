@@ -82,6 +82,7 @@ Under the hood, single agent একটি cycle-এ কাজ করে, যা�
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/384e4769-abf2-4b54-b85b-cf48128944c5" />
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ae4c6d5a-e91e-4dd8-b4be-1ed8dbf69882" />
 
 
 1. **Perceive (দেখা/Observe)**:  
